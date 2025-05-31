@@ -1,2 +1,2 @@
-alpaca-trade-api==2.7.0
+alpaca-trade-api==3.2.0
 python-dotenv==1.0.0
